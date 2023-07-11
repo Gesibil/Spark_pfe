@@ -1,0 +1,2 @@
+window handle closed
+window handle open
